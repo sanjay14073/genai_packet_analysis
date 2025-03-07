@@ -21,7 +21,7 @@ This is a Streamlit-based application that allows users to analyze packet data u
 1. Replace `YOUR_API_KEY` in the script with your actual Google Gemini API key.
 2. Run the application with the following command:
    ```sh
-   streamlit run script.py
+   streamlit run app.py
    ```
 3. Select a packet data sample from the dropdown menu.
 4. Click the **Analyze Packet Data** button to get an AI-generated security analysis.
